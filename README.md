@@ -32,6 +32,3 @@ Make sure you have **NetBeans IDE** installed and configured with the necessary 
 - Apache Tomcat or any Java-compatible web server (for web applications).
 - Additional dependencies as specified in the `build.xml` file.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
